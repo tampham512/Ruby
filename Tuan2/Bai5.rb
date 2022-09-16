@@ -1,6 +1,6 @@
-a = 1
-b = 2.4
-c = "T"
+a = 6
+b = 5
+c = "Tam"
 
 puts a
 puts b
